@@ -13,11 +13,6 @@ public class Circle {
         calcLenght();
     }
 
-    public Circle(int radius) {
-        this.radius = radius;
-        calcLenght();
-    }
-
     public int getRadius() {
         return radius;
     }
